@@ -25,7 +25,7 @@ folium - python based visualization lib
 
 The Jupyter notebook has some map visualizations that require javascript which is unsupported on github when embeded in notebooks.
 
-You can view the notebook a fully rendered notebook on this nbviewer link:
+You can view the fully rendered notebook on this nbviewer link:
 
 http://nbviewer.jupyter.org/github/RonKG/machine-learning-portfolio-projects/blob/master/data_storytelling_project/homicide.data.cityofchicago.org.ipynb
 
