@@ -20,6 +20,10 @@ You can view the notebook a fully rendered notebook on this nbviwer link:
 
 http://nbviewer.jupyter.org/github/RonKG/machine-learning-portfolio-projects/blob/master/3.%20NLP_twitter_sentiment_analysis/FINAL____twitter_sentiment_twitter.ipynb
 
+### Note
+
+The twitter data downloaded for sentiment analysis contains offensive tweets since it is twitter after all!
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
