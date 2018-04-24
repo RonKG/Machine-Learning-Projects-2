@@ -22,7 +22,7 @@ http://nbviewer.jupyter.org/github/RonKG/machine-learning-portfolio-projects/blo
 
 ### Note
 
-The twitter data downloaded for sentiment analysis contains offensive tweets since it is twitter after all!
+The twitter data downloaded for sentiment analysis contains some offensive tweets since it is twitter after all!
 
 ## License
 
