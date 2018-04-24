@@ -14,6 +14,12 @@ ML Portfolio #3
 
 Check out the file 'requirements.txt'
 
+### Live Notebook @
+
+You can view the notebook a fully rendered notebook on this nbviwer link:
+
+http://nbviewer.jupyter.org/github/RonKG/machine-learning-portfolio-projects/blob/master/3.%20NLP_twitter_sentiment_analysis/FINAL____twitter_sentiment_twitter.ipynb
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
