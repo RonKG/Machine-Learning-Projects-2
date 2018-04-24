@@ -10,7 +10,7 @@ ML Portfolio #3
 - Anaconda 3.6.*
 
 
-### Installing
+### Installing and Necessary Libraries
 
 Check out the file 'requirements.txt'
 
