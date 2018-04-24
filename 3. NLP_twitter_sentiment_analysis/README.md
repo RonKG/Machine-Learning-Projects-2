@@ -16,7 +16,7 @@ Check out the file 'requirements.txt'
 
 ### Live Notebook @
 
-You can view the notebook a fully rendered notebook on this nbviwer link:
+You can view a fully rendered notebook by following this nbviewer link:
 
 http://nbviewer.jupyter.org/github/RonKG/machine-learning-portfolio-projects/blob/master/3.%20NLP_twitter_sentiment_analysis/FINAL____twitter_sentiment_twitter.ipynb
 
