@@ -30,5 +30,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whoinspired me. 
+* Hat tip to anyone who inspired me. 
 *Thank you!
