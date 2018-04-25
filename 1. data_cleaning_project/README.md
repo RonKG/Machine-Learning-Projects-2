@@ -8,7 +8,8 @@ This is one of series of projects that I am doing to showcase my newly learned M
 
 ## Getting Started
 
-I ran the program on a local machine with latest anaconda installation and pandas 3.6. As with all anaconda projects, it's best to run this on a conda virtual enviroment.
+I ran the program on a local machine with latest anaconda installation and pandas 3.6. 
+- As with all python\anaconda projects, it's best to run this on a conda virtual enviroment.
 
 ### Prerequisites
 
