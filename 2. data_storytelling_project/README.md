@@ -27,7 +27,7 @@ The Jupyter notebook has some map visualizations that require javascript which i
 
 You can view a fully rendered notebook by following this nbviewer link:
 
-http://nbviewer.jupyter.org/github/RonKG/machine-learning-portfolio-projects/blob/master/data_storytelling_project/homicide.data.cityofchicago.org.ipynb
+http://nbviewer.jupyter.org/github/RonKG/machine-learning-portfolio-projects/blob/master/2.%20data_storytelling_project/homicide.data.cityofchicago.org.ipynb
 
 ## Acknowledgments
 
