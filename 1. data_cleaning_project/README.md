@@ -1,7 +1,5 @@
 # Data Cleaning Project
 
-This is one of series of projects that I am doing to showcase my newly learned Machine Learning skills.
-
 - In this project I demonstrate data cleaning for a time series dataset used for prediction. I combine different files from different sources to create a final CSV file with 9 features comprised of the DOW JONES closing price and several economic indicators. 
 - The end result is a dataset that is ready to be fed into a ML algorithim that handles time series prediction.
 - The target column is the Michigan Consumer Index Survey (CSI) which tends to move financial markets significantly.
