@@ -1,6 +1,6 @@
 # machine-learning-portfolio-projects
 
-This repo is for machine learning related projects that make up part of my portfolio of work. 
+This repository is for machine learning related portfolio projects. New projects will be added regularly...
 
 Each folder contains a different project and project files.
 
