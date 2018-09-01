@@ -5,7 +5,3 @@ This repository is for machine learning related portfolio projects. New projects
 Each folder contains a different project and project files.
 
 Thanks for taking a look!
-
-Ronald Wahome
-
-* Hat tip to all that inspired me!
