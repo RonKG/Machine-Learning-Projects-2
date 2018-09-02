@@ -1,6 +1,8 @@
 # Project Title
 
-Natural Language Precessing - Twitter Sentiment Analysis
+- Natural Language Processing - Twitter Sentiment Analysis
+
+- I used a Naive Bayes Classifier (NB) to learn the correct labels from the training data. I used training dataset from Sentiment140 at sentiment140.com. The dataset comes with prelabeled columns containing one of two binary targets. 
 
 ML Portfolio #3
 
@@ -28,7 +30,3 @@ The twitter data downloaded for sentiment analysis contains some offensive tweet
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone who inspired me. 
-*Thank you!*
